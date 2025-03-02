@@ -90,18 +90,19 @@ aws --endpoint-url=http://localhost:4566 dynamodb scan --table-name UserData
 
 ## Screenshots
 
-
-
-(../Pictures/Screenshots/Screenshot%20from%202025-03-02%2018-08-50.png)
-
-
-
-(../Pictures/Screenshots/Screenshot%20from%202025-03-02%2018-16-59.png)
+![Screenshot from 2025-03-02 18-08-50](https://github.com/user-attachments/assets/bf09dfd6-01e4-42bb-aeb3-32500ac1d7cc)
 
 
 
-(../Pictures/Screenshots/Screenshot%20from%202025-03-02%2018-17-42.png)
+![Screenshot from 2025-03-02 18-16-59](https://github.com/user-attachments/assets/a2019401-6b0b-44d7-baf0-28032068c2cc)
+
+
+![Screenshot from 2025-03-02 18-17-42](https://github.com/user-attachments/assets/90dfab14-8da1-4441-9902-c6edc80fdaab)
+
+
+![Screenshot from 2025-03-02 18-55-19](https://github.com/user-attachments/assets/3b4de099-7794-41bd-99de-49f86931b022)
 
 
 
-(../Pictures/Screenshots/Screenshot%20from%202025-03-02%2018-55-19.png)
+
+
